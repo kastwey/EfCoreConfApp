@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreTutoApp", "EfCoreTutoApp\EfCoreTutoApp.csproj", "{75C559A6-0F41-4CAB-939B-448B6460549A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Ui", "0. Ui", "{9114116A-35F2-4DF0-8B30-38C664E20A93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Business", "1. Business", "{D6803E65-4319-4290-A5D1-A94847786ED7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Infraestructure", "2. Infraestructure", "{FB8E9F3B-F741-4DAA-AD62-16C2BF7B672B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreTutoApp.Entities", "EfCoreTutoApp.Entities\EfCoreTutoApp.Entities.csproj", "{71B21626-5270-4C0B-BBE2-1991179EF648}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreTutoApp.DataAccess", "EfCoreTutoApp.DataAccess\EfCoreTutoApp.DataAccess.csproj", "{A607555F-FCF5-4140-8F00-D781530C9557}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreTutoApp.Abstractions", "EfCoreTutoApp.Abstractions\EfCoreTutoApp.Abstractions.csproj", "{23F61E7B-F957-45F6-96FA-2ADE7960C7FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C559A6-0F41-4CAB-939B-448B6460549A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C559A6-0F41-4CAB-939B-448B6460549A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C559A6-0F41-4CAB-939B-448B6460549A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C559A6-0F41-4CAB-939B-448B6460549A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B21626-5270-4C0B-BBE2-1991179EF648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B21626-5270-4C0B-BBE2-1991179EF648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B21626-5270-4C0B-BBE2-1991179EF648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B21626-5270-4C0B-BBE2-1991179EF648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A607555F-FCF5-4140-8F00-D781530C9557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A607555F-FCF5-4140-8F00-D781530C9557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A607555F-FCF5-4140-8F00-D781530C9557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A607555F-FCF5-4140-8F00-D781530C9557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F61E7B-F957-45F6-96FA-2ADE7960C7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F61E7B-F957-45F6-96FA-2ADE7960C7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F61E7B-F957-45F6-96FA-2ADE7960C7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F61E7B-F957-45F6-96FA-2ADE7960C7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{75C559A6-0F41-4CAB-939B-448B6460549A} = {9114116A-35F2-4DF0-8B30-38C664E20A93}
+		{71B21626-5270-4C0B-BBE2-1991179EF648} = {D6803E65-4319-4290-A5D1-A94847786ED7}
+		{A607555F-FCF5-4140-8F00-D781530C9557} = {FB8E9F3B-F741-4DAA-AD62-16C2BF7B672B}
+		{23F61E7B-F957-45F6-96FA-2ADE7960C7FE} = {D6803E65-4319-4290-A5D1-A94847786ED7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB2D5A7-F28C-4B5D-81F8-5523E46E3435}
+	EndGlobalSection
+EndGlobal

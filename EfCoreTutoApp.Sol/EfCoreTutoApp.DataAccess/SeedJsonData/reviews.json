@@ -1,0 +1,50 @@
+[{
+		"Id": "AF5DBB0C-E6A2-4D9C-9D6E-13FCBFD626FB",
+		"VoterName": "Leonard",
+		"NumStars": 4,
+		"Comment": "not bad...",
+		"ProductId": "2B8743FB-CF1F-79CD-087F-F8BD481F9F2C"
+	}, {
+		"Id": "DF3ED7E7-A33E-4BBF-9772-26471A10146E",
+		"VoterName": "Christian",
+		"NumStars": 5,
+		"Comment": "Muy buen producto",
+		"ProductId": "DFC70D8B-74C7-BEDD-84F6-D6CA1F8E9BCA"
+	}, {
+		"Id": "1148E64F-F9F5-4D1E-AD9A-2DC716FD07A4",
+		"VoterName": "Antoine",
+		"NumStars": 4,
+		"Comment": "Cest ok",
+		"ProductId": "D533DADF-8FEA-80A1-B7C3-28A7C4D60D46"
+	}, {
+		"Id": "40962628-5874-42A6-97B3-3BBC2520D560",
+		"VoterName": "Juanjo",
+		"NumStars": 3,
+		"Comment": "Entregado a tiempo",
+		"ProductId": "DFC70D8B-74C7-BEDD-84F6-D6CA1F8E9BCA"
+	}, {
+		"Id": "C953FBB9-667F-42CF-8CFE-78C1E2551365",
+		"VoterName": "Griezmann",
+		"NumStars": 1,
+		"Comment": "je suis desole",
+		"ProductId": "D533DADF-8FEA-80A1-B7C3-28A7C4D60D46"
+	}, {
+		"Id": "93D9854C-225F-4BB8-9DDA-AFBCB59EB7CD",
+		"VoterName": "Penny",
+		"NumStars": 2,
+		"Comment": "What the f***!",
+		"ProductId": "2B8743FB-CF1F-79CD-087F-F8BD481F9F2C"
+	}, {
+		"Id": "CE921C7E-705E-494B-B6A6-B32B29845378",
+		"VoterName": "Davids",
+		"NumStars": 5,
+		"Comment": "Great!",
+		"ProductId": "2FD471EC-1B5A-A2E0-5ED9-E68A319FD886"
+	}, {
+		"Id": "F3ADC387-2DF3-4263-94E6-E773606B71A6",
+		"VoterName": "Sheldon",
+		"NumStars": 5,
+		"Comment": "Bazinga!",
+		"ProductId": "2B8743FB-CF1F-79CD-087F-F8BD481F9F2C"
+	}
+]
